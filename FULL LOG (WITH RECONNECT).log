@@ -1,0 +1,443 @@
+Fri Feb 26 17:59:25 2016 us=294674 Current Parameter Settings:
+Fri Feb 26 17:59:25 2016 us=294674   config = 'polska.ovpn'
+Fri Feb 26 17:59:25 2016 us=294674   mode = 0
+Fri Feb 26 17:59:25 2016 us=294674   show_ciphers = DISABLED
+Fri Feb 26 17:59:25 2016 us=294674   show_digests = DISABLED
+Fri Feb 26 17:59:25 2016 us=294674   show_engines = DISABLED
+Fri Feb 26 17:59:25 2016 us=294674   genkey = DISABLED
+Fri Feb 26 17:59:25 2016 us=294674   key_pass_file = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=294674   show_tls_ciphers = DISABLED
+Fri Feb 26 17:59:25 2016 us=294674 Connection profiles [default]:
+Fri Feb 26 17:59:25 2016 us=294674   proto = tcp-client
+Fri Feb 26 17:59:25 2016 us=294674   local = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=294674   local_port = 0
+Fri Feb 26 17:59:25 2016 us=294674   remote = 'damtur.ddns.net'
+Fri Feb 26 17:59:25 2016 us=294674   remote_port = 12974
+Fri Feb 26 17:59:25 2016 us=294674   remote_float = DISABLED
+Fri Feb 26 17:59:25 2016 us=294674   bind_defined = DISABLED
+Fri Feb 26 17:59:25 2016 us=294674   bind_local = DISABLED
+Fri Feb 26 17:59:25 2016 us=294674   connect_retry_seconds = 5
+Fri Feb 26 17:59:25 2016 us=294674   connect_timeout = 10
+Fri Feb 26 17:59:25 2016 us=294674   connect_retry_max = 0
+Fri Feb 26 17:59:25 2016 us=294674   socks_proxy_server = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=294674   socks_proxy_port = 0
+Fri Feb 26 17:59:25 2016 us=294674   socks_proxy_retry = DISABLED
+Fri Feb 26 17:59:25 2016 us=294674   tun_mtu = 1500
+Fri Feb 26 17:59:25 2016 us=294674   tun_mtu_defined = ENABLED
+Fri Feb 26 17:59:25 2016 us=294674   link_mtu = 1500
+Fri Feb 26 17:59:25 2016 us=294674   link_mtu_defined = DISABLED
+Fri Feb 26 17:59:25 2016 us=294674   tun_mtu_extra = 32
+Fri Feb 26 17:59:25 2016 us=294674   tun_mtu_extra_defined = ENABLED
+Fri Feb 26 17:59:25 2016 us=294674   mtu_discover_type = -1
+Fri Feb 26 17:59:25 2016 us=294674   fragment = 0
+Fri Feb 26 17:59:25 2016 us=294674   mssfix = 1450
+Fri Feb 26 17:59:25 2016 us=294674   explicit_exit_notification = 0
+Fri Feb 26 17:59:25 2016 us=294674 Connection profiles END
+Fri Feb 26 17:59:25 2016 us=294674   remote_random = DISABLED
+Fri Feb 26 17:59:25 2016 us=294674   ipchange = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=294674   dev = 'tap'
+Fri Feb 26 17:59:25 2016 us=294674   dev_type = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=294674   dev_node = 'NETGEAR-VPN'
+Fri Feb 26 17:59:25 2016 us=294674   lladdr = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=294674   topology = 1
+Fri Feb 26 17:59:25 2016 us=294674   tun_ipv6 = DISABLED
+Fri Feb 26 17:59:25 2016 us=294674   ifconfig_local = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=294674   ifconfig_remote_netmask = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=294674   ifconfig_noexec = DISABLED
+Fri Feb 26 17:59:25 2016 us=294674   ifconfig_nowarn = DISABLED
+Fri Feb 26 17:59:25 2016 us=294674   ifconfig_ipv6_local = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=294674   ifconfig_ipv6_netbits = 0
+Fri Feb 26 17:59:25 2016 us=294674   ifconfig_ipv6_remote = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=294674   shaper = 0
+Fri Feb 26 17:59:25 2016 us=294674   mtu_test = 0
+Fri Feb 26 17:59:25 2016 us=294674   mlock = DISABLED
+Fri Feb 26 17:59:25 2016 us=294674   keepalive_ping = 0
+Fri Feb 26 17:59:25 2016 us=294674   keepalive_timeout = 0
+Fri Feb 26 17:59:25 2016 us=294674   inactivity_timeout = 0
+Fri Feb 26 17:59:25 2016 us=294674   ping_send_timeout = 0
+Fri Feb 26 17:59:25 2016 us=294674   ping_rec_timeout = 0
+Fri Feb 26 17:59:25 2016 us=295675   ping_rec_timeout_action = 0
+Fri Feb 26 17:59:25 2016 us=295675   ping_timer_remote = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   remap_sigusr1 = 0
+Fri Feb 26 17:59:25 2016 us=295675   persist_tun = ENABLED
+Fri Feb 26 17:59:25 2016 us=295675   persist_local_ip = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   persist_remote_ip = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   persist_key = ENABLED
+Fri Feb 26 17:59:25 2016 us=295675   passtos = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   resolve_retry_seconds = 1000000000
+Fri Feb 26 17:59:25 2016 us=295675   username = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   groupname = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   chroot_dir = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   cd_dir = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   writepid = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   up_script = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   down_script = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   down_pre = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   up_restart = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   up_delay = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   daemon = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   inetd = 0
+Fri Feb 26 17:59:25 2016 us=295675   log = ENABLED
+Fri Feb 26 17:59:25 2016 us=295675   suppress_timestamps = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   nice = 0
+Fri Feb 26 17:59:25 2016 us=295675   verbosity = 5
+Fri Feb 26 17:59:25 2016 us=295675   mute = 0
+Fri Feb 26 17:59:25 2016 us=295675   gremlin = 0
+Fri Feb 26 17:59:25 2016 us=295675   status_file = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   status_file_version = 1
+Fri Feb 26 17:59:25 2016 us=295675   status_file_update_freq = 60
+Fri Feb 26 17:59:25 2016 us=295675   occ = ENABLED
+Fri Feb 26 17:59:25 2016 us=295675   rcvbuf = 0
+Fri Feb 26 17:59:25 2016 us=295675   sndbuf = 0
+Fri Feb 26 17:59:25 2016 us=295675   sockflags = 0
+Fri Feb 26 17:59:25 2016 us=295675   fast_io = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   lzo = 7
+Fri Feb 26 17:59:25 2016 us=295675   route_script = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   route_default_gateway = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   route_default_metric = 0
+Fri Feb 26 17:59:25 2016 us=295675   route_noexec = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   route_delay = 5
+Fri Feb 26 17:59:25 2016 us=295675   route_delay_window = 30
+Fri Feb 26 17:59:25 2016 us=295675   route_delay_defined = ENABLED
+Fri Feb 26 17:59:25 2016 us=295675   route_nopull = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   route_gateway_via_dhcp = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   max_routes = 100
+Fri Feb 26 17:59:25 2016 us=295675   allow_pull_fqdn = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   management_addr = '127.0.0.1'
+Fri Feb 26 17:59:25 2016 us=295675   management_port = 25340
+Fri Feb 26 17:59:25 2016 us=295675   management_user_pass = 'stdin'
+Fri Feb 26 17:59:25 2016 us=295675   management_log_history_cache = 250
+Fri Feb 26 17:59:25 2016 us=295675   management_echo_buffer_size = 100
+Fri Feb 26 17:59:25 2016 us=295675   management_write_peer_info_file = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   management_client_user = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   management_client_group = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   management_flags = 6
+Fri Feb 26 17:59:25 2016 us=295675   shared_secret_file = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   key_direction = 0
+Fri Feb 26 17:59:25 2016 us=295675   ciphername_defined = ENABLED
+Fri Feb 26 17:59:25 2016 us=295675   ciphername = 'AES-128-CBC'
+Fri Feb 26 17:59:25 2016 us=295675   authname_defined = ENABLED
+Fri Feb 26 17:59:25 2016 us=295675   authname = 'SHA1'
+Fri Feb 26 17:59:25 2016 us=295675   prng_hash = 'SHA1'
+Fri Feb 26 17:59:25 2016 us=295675   prng_nonce_secret_len = 16
+Fri Feb 26 17:59:25 2016 us=295675   keysize = 0
+Fri Feb 26 17:59:25 2016 us=295675   engine = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   replay = ENABLED
+Fri Feb 26 17:59:25 2016 us=295675   mute_replay_warnings = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   replay_window = 64
+Fri Feb 26 17:59:25 2016 us=295675   replay_time = 15
+Fri Feb 26 17:59:25 2016 us=295675   packet_id_file = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   use_iv = ENABLED
+Fri Feb 26 17:59:25 2016 us=295675   test_crypto = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   tls_server = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   tls_client = ENABLED
+Fri Feb 26 17:59:25 2016 us=295675   key_method = 2
+Fri Feb 26 17:59:25 2016 us=295675   ca_file = 'ca.crt'
+Fri Feb 26 17:59:25 2016 us=295675   ca_path = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   dh_file = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   cert_file = 'client.crt'
+Fri Feb 26 17:59:25 2016 us=295675   extra_certs_file = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   priv_key_file = 'client.key'
+Fri Feb 26 17:59:25 2016 us=295675   pkcs12_file = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   cryptoapi_cert = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   cipher_list = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   tls_verify = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   tls_export_cert = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   verify_x509_type = 0
+Fri Feb 26 17:59:25 2016 us=295675   verify_x509_name = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   crl_file = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   ns_cert_type = 0
+Fri Feb 26 17:59:25 2016 us=295675   remote_cert_ku[i] = 0
+Fri Feb 26 17:59:25 2016 us=295675   remote_cert_ku[i] = 0
+Fri Feb 26 17:59:25 2016 us=295675   remote_cert_ku[i] = 0
+Fri Feb 26 17:59:25 2016 us=295675   remote_cert_ku[i] = 0
+Fri Feb 26 17:59:25 2016 us=295675   remote_cert_ku[i] = 0
+Fri Feb 26 17:59:25 2016 us=295675   remote_cert_ku[i] = 0
+Fri Feb 26 17:59:25 2016 us=295675   remote_cert_ku[i] = 0
+Fri Feb 26 17:59:25 2016 us=295675   remote_cert_ku[i] = 0
+Fri Feb 26 17:59:25 2016 us=295675   remote_cert_ku[i] = 0
+Fri Feb 26 17:59:25 2016 us=295675   remote_cert_ku[i] = 0
+Fri Feb 26 17:59:25 2016 us=295675   remote_cert_ku[i] = 0
+Fri Feb 26 17:59:25 2016 us=295675   remote_cert_ku[i] = 0
+Fri Feb 26 17:59:25 2016 us=295675   remote_cert_ku[i] = 0
+Fri Feb 26 17:59:25 2016 us=295675   remote_cert_ku[i] = 0
+Fri Feb 26 17:59:25 2016 us=295675   remote_cert_ku[i] = 0
+Fri Feb 26 17:59:25 2016 us=295675   remote_cert_ku[i] = 0
+Fri Feb 26 17:59:25 2016 us=295675   remote_cert_eku = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   ssl_flags = 0
+Fri Feb 26 17:59:25 2016 us=295675   tls_timeout = 2
+Fri Feb 26 17:59:25 2016 us=295675   renegotiate_bytes = 0
+Fri Feb 26 17:59:25 2016 us=295675   renegotiate_packets = 0
+Fri Feb 26 17:59:25 2016 us=295675   renegotiate_seconds = 3600
+Fri Feb 26 17:59:25 2016 us=295675   handshake_window = 60
+Fri Feb 26 17:59:25 2016 us=295675   transition_window = 3600
+Fri Feb 26 17:59:25 2016 us=295675   single_session = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   push_peer_info = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   tls_exit = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   tls_auth_file = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_protected_authentication = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_protected_authentication = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_protected_authentication = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_protected_authentication = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_protected_authentication = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_protected_authentication = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_protected_authentication = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_protected_authentication = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_protected_authentication = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_protected_authentication = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_protected_authentication = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_protected_authentication = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_protected_authentication = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_protected_authentication = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_protected_authentication = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_protected_authentication = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_private_mode = 00000000
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_private_mode = 00000000
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_private_mode = 00000000
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_private_mode = 00000000
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_private_mode = 00000000
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_private_mode = 00000000
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_private_mode = 00000000
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_private_mode = 00000000
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_private_mode = 00000000
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_private_mode = 00000000
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_private_mode = 00000000
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_private_mode = 00000000
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_private_mode = 00000000
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_private_mode = 00000000
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_private_mode = 00000000
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_private_mode = 00000000
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_cert_private = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_cert_private = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_cert_private = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_cert_private = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_cert_private = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_cert_private = DISABLED
+Fri Feb 26 17:59:25 2016 us=295675   pkcs11_cert_private = DISABLED
+Fri Feb 26 17:59:25 2016 us=296677   pkcs11_cert_private = DISABLED
+Fri Feb 26 17:59:25 2016 us=296677   pkcs11_cert_private = DISABLED
+Fri Feb 26 17:59:25 2016 us=296677   pkcs11_cert_private = DISABLED
+Fri Feb 26 17:59:25 2016 us=296677   pkcs11_cert_private = DISABLED
+Fri Feb 26 17:59:25 2016 us=296677   pkcs11_cert_private = DISABLED
+Fri Feb 26 17:59:25 2016 us=296677   pkcs11_cert_private = DISABLED
+Fri Feb 26 17:59:25 2016 us=296677   pkcs11_cert_private = DISABLED
+Fri Feb 26 17:59:25 2016 us=296677   pkcs11_cert_private = DISABLED
+Fri Feb 26 17:59:25 2016 us=296677   pkcs11_cert_private = DISABLED
+Fri Feb 26 17:59:25 2016 us=296677   pkcs11_pin_cache_period = -1
+Fri Feb 26 17:59:25 2016 us=296677   pkcs11_id = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=296677   pkcs11_id_management = DISABLED
+Fri Feb 26 17:59:25 2016 us=296677   server_network = 0.0.0.0
+Fri Feb 26 17:59:25 2016 us=296677   server_netmask = 0.0.0.0
+Fri Feb 26 17:59:25 2016 us=297677   server_network_ipv6 = ::
+Fri Feb 26 17:59:25 2016 us=297677   server_netbits_ipv6 = 0
+Fri Feb 26 17:59:25 2016 us=297677   server_bridge_ip = 0.0.0.0
+Fri Feb 26 17:59:25 2016 us=297677   server_bridge_netmask = 0.0.0.0
+Fri Feb 26 17:59:25 2016 us=297677   server_bridge_pool_start = 0.0.0.0
+Fri Feb 26 17:59:25 2016 us=297677   server_bridge_pool_end = 0.0.0.0
+Fri Feb 26 17:59:25 2016 us=297677   ifconfig_pool_defined = DISABLED
+Fri Feb 26 17:59:25 2016 us=297677   ifconfig_pool_start = 0.0.0.0
+Fri Feb 26 17:59:25 2016 us=297677   ifconfig_pool_end = 0.0.0.0
+Fri Feb 26 17:59:25 2016 us=297677   ifconfig_pool_netmask = 0.0.0.0
+Fri Feb 26 17:59:25 2016 us=297677   ifconfig_pool_persist_filename = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=297677   ifconfig_pool_persist_refresh_freq = 600
+Fri Feb 26 17:59:25 2016 us=297677   ifconfig_ipv6_pool_defined = DISABLED
+Fri Feb 26 17:59:25 2016 us=297677   ifconfig_ipv6_pool_base = ::
+Fri Feb 26 17:59:25 2016 us=297677   ifconfig_ipv6_pool_netbits = 0
+Fri Feb 26 17:59:25 2016 us=297677   n_bcast_buf = 256
+Fri Feb 26 17:59:25 2016 us=297677   tcp_queue_limit = 64
+Fri Feb 26 17:59:25 2016 us=297677   real_hash_size = 256
+Fri Feb 26 17:59:25 2016 us=297677   virtual_hash_size = 256
+Fri Feb 26 17:59:25 2016 us=297677   client_connect_script = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=297677   learn_address_script = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=297677   client_disconnect_script = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=297677   client_config_dir = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=297677   ccd_exclusive = DISABLED
+Fri Feb 26 17:59:25 2016 us=297677   tmp_dir = 'C:\Users\DAMIAN~1.TUR\AppData\Local\Temp\'
+Fri Feb 26 17:59:25 2016 us=297677   push_ifconfig_defined = DISABLED
+Fri Feb 26 17:59:25 2016 us=297677   push_ifconfig_local = 0.0.0.0
+Fri Feb 26 17:59:25 2016 us=297677   push_ifconfig_remote_netmask = 0.0.0.0
+Fri Feb 26 17:59:25 2016 us=297677   push_ifconfig_ipv6_defined = DISABLED
+Fri Feb 26 17:59:25 2016 us=297677   push_ifconfig_ipv6_local = ::/0
+Fri Feb 26 17:59:25 2016 us=297677   push_ifconfig_ipv6_remote = ::
+Fri Feb 26 17:59:25 2016 us=297677   enable_c2c = DISABLED
+Fri Feb 26 17:59:25 2016 us=297677   duplicate_cn = DISABLED
+Fri Feb 26 17:59:25 2016 us=297677   cf_max = 0
+Fri Feb 26 17:59:25 2016 us=297677   cf_per = 0
+Fri Feb 26 17:59:25 2016 us=297677   max_clients = 1024
+Fri Feb 26 17:59:25 2016 us=297677   max_routes_per_client = 256
+Fri Feb 26 17:59:25 2016 us=297677   auth_user_pass_verify_script = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=297677   auth_user_pass_verify_script_via_file = DISABLED
+Fri Feb 26 17:59:25 2016 us=297677   client = ENABLED
+Fri Feb 26 17:59:25 2016 us=297677   pull = ENABLED
+Fri Feb 26 17:59:25 2016 us=297677   auth_user_pass_file = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=297677   show_net_up = DISABLED
+Fri Feb 26 17:59:25 2016 us=297677   route_method = 0
+Fri Feb 26 17:59:25 2016 us=297677   block_outside_dns = DISABLED
+Fri Feb 26 17:59:25 2016 us=297677   ip_win32_defined = DISABLED
+Fri Feb 26 17:59:25 2016 us=297677   ip_win32_type = 3
+Fri Feb 26 17:59:25 2016 us=297677   dhcp_masq_offset = 0
+Fri Feb 26 17:59:25 2016 us=297677   dhcp_lease_time = 31536000
+Fri Feb 26 17:59:25 2016 us=297677   tap_sleep = 0
+Fri Feb 26 17:59:25 2016 us=297677   dhcp_options = DISABLED
+Fri Feb 26 17:59:25 2016 us=297677   dhcp_renew = DISABLED
+Fri Feb 26 17:59:25 2016 us=297677   dhcp_pre_release = DISABLED
+Fri Feb 26 17:59:25 2016 us=297677   dhcp_release = DISABLED
+Fri Feb 26 17:59:25 2016 us=297677   domain = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=297677   netbios_scope = '[UNDEF]'
+Fri Feb 26 17:59:25 2016 us=297677   netbios_node_type = 0
+Fri Feb 26 17:59:25 2016 us=297677   disable_nbt = DISABLED
+Fri Feb 26 17:59:25 2016 us=297677 OpenVPN 2.3.10 x86_64-w64-mingw32 [SSL (OpenSSL)] [LZO] [PKCS11] [IPv6] built on Feb  1 2016
+Fri Feb 26 17:59:25 2016 us=297677 Windows version 6.2 (Windows 8 or greater)
+Fri Feb 26 17:59:25 2016 us=297677 library versions: OpenSSL 1.0.1r  28 Jan 2016, LZO 2.09
+Enter Management Password:
+Fri Feb 26 17:59:25 2016 us=298677 MANAGEMENT: TCP Socket listening on [AF_INET]127.0.0.1:25340
+Fri Feb 26 17:59:25 2016 us=298677 Need hold release from management interface, waiting...
+Fri Feb 26 17:59:25 2016 us=778933 MANAGEMENT: Client connected from [AF_INET]127.0.0.1:25340
+Fri Feb 26 17:59:25 2016 us=879874 MANAGEMENT: CMD 'state on'
+Fri Feb 26 17:59:25 2016 us=880372 MANAGEMENT: CMD 'log all on'
+Fri Feb 26 17:59:26 2016 us=124620 MANAGEMENT: CMD 'hold off'
+Fri Feb 26 17:59:26 2016 us=127622 MANAGEMENT: CMD 'hold release'
+Fri Feb 26 17:59:26 2016 us=127622 WARNING: No server certificate verification method has been enabled.  See http://openvpn.net/howto.html#mitm for more info.
+Fri Feb 26 17:59:26 2016 us=238704 LZO compression initialized
+Fri Feb 26 17:59:26 2016 us=238704 Control Channel MTU parms [ L:1592 D:1210 EF:40 EB:0 ET:0 EL:3 ]
+Fri Feb 26 17:59:26 2016 us=238704 Socket Buffers: R=[65536->65536] S=[65536->65536]
+Fri Feb 26 17:59:26 2016 us=238704 MANAGEMENT: >STATE:1456509566,RESOLVE,,,
+Fri Feb 26 17:59:26 2016 us=442289 Data Channel MTU parms [ L:1592 D:1450 EF:60 EB:143 ET:32 EL:3 AF:3/1 ]
+Fri Feb 26 17:59:26 2016 us=442289 Local Options String: 'V4,dev-type tap,link-mtu 1592,tun-mtu 1532,proto TCPv4_CLIENT,comp-lzo,cipher AES-128-CBC,auth SHA1,keysize 128,key-method 2,tls-client'
+Fri Feb 26 17:59:26 2016 us=442289 Expected Remote Options String: 'V4,dev-type tap,link-mtu 1592,tun-mtu 1532,proto TCPv4_SERVER,comp-lzo,cipher AES-128-CBC,auth SHA1,keysize 128,key-method 2,tls-server'
+Fri Feb 26 17:59:26 2016 us=442289 Local Options hash (VER=V4): '39ac68d4'
+Fri Feb 26 17:59:26 2016 us=442289 Expected Remote Options hash (VER=V4): 'de0ebdfe'
+Fri Feb 26 17:59:26 2016 us=442289 Attempting to establish TCP connection with [AF_INET]89.65.232.65:12974 [nonblock]
+Fri Feb 26 17:59:26 2016 us=442289 MANAGEMENT: >STATE:1456509566,TCP_CONNECT,,,
+Fri Feb 26 17:59:27 2016 us=442274 TCP connection established with [AF_INET]89.65.232.65:12974
+Fri Feb 26 17:59:27 2016 us=442274 TCPv4_CLIENT link local: [undef]
+Fri Feb 26 17:59:27 2016 us=442274 TCPv4_CLIENT link remote: [AF_INET]89.65.232.65:12974
+Fri Feb 26 17:59:27 2016 us=442274 MANAGEMENT: >STATE:1456509567,WAIT,,,
+Fri Feb 26 17:59:27 2016 us=500742 MANAGEMENT: >STATE:1456509567,AUTH,,,
+Fri Feb 26 17:59:27 2016 us=500742 TLS: Initial packet from [AF_INET]89.65.232.65:12974, sid=d950b224 3fefef5a
+Fri Feb 26 17:59:28 2016 us=389225 VERIFY OK: depth=1, C=TW, ST=TW, L=Taipei, O=netgear, OU=netgear, CN=netgear, emailAddress=mail@netgear.com
+Fri Feb 26 17:59:28 2016 us=389225 VERIFY OK: depth=0, C=TW, ST=TW, O=netgear, OU=netgear, CN=netgear, emailAddress=mail@netgear.com
+Fri Feb 26 17:59:28 2016 us=862555 Data Channel Encrypt: Cipher 'AES-128-CBC' initialized with 128 bit key
+Fri Feb 26 17:59:28 2016 us=862555 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Fri Feb 26 17:59:28 2016 us=862555 Data Channel Decrypt: Cipher 'AES-128-CBC' initialized with 128 bit key
+Fri Feb 26 17:59:28 2016 us=863324 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Fri Feb 26 17:59:28 2016 us=863324 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+Fri Feb 26 17:59:28 2016 us=863324 [netgear] Peer Connection Initiated with [AF_INET]89.65.232.65:12974
+Fri Feb 26 17:59:29 2016 us=927660 MANAGEMENT: >STATE:1456509569,GET_CONFIG,,,
+Fri Feb 26 17:59:30 2016 us=991952 SENT CONTROL [netgear]: 'PUSH_REQUEST' (status=1)
+Fri Feb 26 17:59:31 2016 us=140888 PUSH: Received control message: 'PUSH_REPLY,route 192.168.1.0 255.255.255.0,route-delay 5,redirect-gateway def1,route-gateway dhcp,ping 10,ping-restart 120'
+Fri Feb 26 17:59:31 2016 us=140888 OPTIONS IMPORT: timers and/or timeouts modified
+Fri Feb 26 17:59:31 2016 us=140888 OPTIONS IMPORT: route options modified
+Fri Feb 26 17:59:31 2016 us=140888 OPTIONS IMPORT: route-related options modified
+Fri Feb 26 17:59:31 2016 us=144890 ROUTE_GATEWAY 10.104.0.1/255.255.240.0 I=7 HWADDR=54:ee:75:4d:fd:c6
+Fri Feb 26 17:59:31 2016 us=152894 OpenVPN ROUTE: OpenVPN needs a gateway parameter for a --route option and no default was specified by either --route-gateway or --ifconfig options
+Fri Feb 26 17:59:31 2016 us=152894 OpenVPN ROUTE: failed to parse/resolve route for host/network: 192.168.1.0
+Fri Feb 26 17:59:31 2016 us=154896 open_tun, tt->ipv6=0
+Fri Feb 26 17:59:31 2016 us=155898 TAP-WIN32 device [NETGEAR-VPN] opened: \\.\Global\{01B7C95F-2453-4902-BFDE-57D45A3FE7B4}.tap
+Fri Feb 26 17:59:31 2016 us=155898 TAP-Windows Driver Version 9.21 
+Fri Feb 26 17:59:31 2016 us=155898 TAP-Windows MTU=1500
+Fri Feb 26 17:59:31 2016 us=155898 Successful ARP Flush on interface [2] {01B7C95F-2453-4902-BFDE-57D45A3FE7B4}
+Fri Feb 26 17:59:31 2016 us=366960 Extracted DHCP router address: 192.168.1.1
+Fri Feb 26 17:59:36 2016 us=406102 TEST ROUTES: 1/1 succeeded len=0 ret=1 a=0 u/d=up
+Fri Feb 26 17:59:36 2016 us=406102 C:\WINDOWS\system32\route.exe ADD 89.65.232.65 MASK 255.255.255.255 10.104.0.1
+Fri Feb 26 17:59:36 2016 us=409117 ROUTE: CreateIpForwardEntry succeeded with dwForwardMetric1=10 and dwForwardType=4
+Fri Feb 26 17:59:36 2016 us=409117 Route addition via IPAPI succeeded [adaptive]
+Fri Feb 26 17:59:36 2016 us=409117 C:\WINDOWS\system32\route.exe ADD 0.0.0.0 MASK 128.0.0.0 192.168.1.1
+Fri Feb 26 17:59:36 2016 us=411607 ROUTE: CreateIpForwardEntry succeeded with dwForwardMetric1=20 and dwForwardType=4
+Fri Feb 26 17:59:36 2016 us=411607 Route addition via IPAPI succeeded [adaptive]
+Fri Feb 26 17:59:36 2016 us=412107 C:\WINDOWS\system32\route.exe ADD 128.0.0.0 MASK 128.0.0.0 192.168.1.1
+Fri Feb 26 17:59:36 2016 us=414110 ROUTE: CreateIpForwardEntry succeeded with dwForwardMetric1=20 and dwForwardType=4
+Fri Feb 26 17:59:36 2016 us=414110 Route addition via IPAPI succeeded [adaptive]
+Fri Feb 26 17:59:36 2016 us=414609 Initialization Sequence Completed
+Fri Feb 26 17:59:36 2016 us=414609 MANAGEMENT: >STATE:1456509576,CONNECTED,SUCCESS,,89.65.232.65
+Fri Feb 26 18:02:36 2016 us=837303 [netgear] Inactivity timeout (--ping-restart), restarting
+Fri Feb 26 18:02:36 2016 us=837303 TCP/UDP: Closing socket
+Fri Feb 26 18:02:36 2016 us=837303 SIGUSR1[soft,ping-restart] received, process restarting
+Fri Feb 26 18:02:36 2016 us=837303 MANAGEMENT: >STATE:1456509756,RECONNECTING,ping-restart,,
+Fri Feb 26 18:02:36 2016 us=838288 Restart pause, 5 second(s)
+Fri Feb 26 18:02:41 2016 us=842247 WARNING: No server certificate verification method has been enabled.  See http://openvpn.net/howto.html#mitm for more info.
+Fri Feb 26 18:02:41 2016 us=842247 Re-using SSL/TLS context
+Fri Feb 26 18:02:41 2016 us=842247 LZO compression initialized
+Fri Feb 26 18:02:41 2016 us=842247 Control Channel MTU parms [ L:1592 D:1210 EF:40 EB:0 ET:0 EL:3 ]
+Fri Feb 26 18:02:41 2016 us=842247 Socket Buffers: R=[65536->65536] S=[65536->65536]
+Fri Feb 26 18:02:41 2016 us=842247 MANAGEMENT: >STATE:1456509761,RESOLVE,,,
+Fri Feb 26 18:02:41 2016 us=952467 Data Channel MTU parms [ L:1592 D:1450 EF:60 EB:143 ET:32 EL:3 AF:3/1 ]
+Fri Feb 26 18:02:41 2016 us=952467 Local Options String: 'V4,dev-type tap,link-mtu 1592,tun-mtu 1532,proto TCPv4_CLIENT,comp-lzo,cipher AES-128-CBC,auth SHA1,keysize 128,key-method 2,tls-client'
+Fri Feb 26 18:02:41 2016 us=952467 Expected Remote Options String: 'V4,dev-type tap,link-mtu 1592,tun-mtu 1532,proto TCPv4_SERVER,comp-lzo,cipher AES-128-CBC,auth SHA1,keysize 128,key-method 2,tls-server'
+Fri Feb 26 18:02:41 2016 us=952467 Local Options hash (VER=V4): '39ac68d4'
+Fri Feb 26 18:02:41 2016 us=952467 Expected Remote Options hash (VER=V4): 'de0ebdfe'
+Fri Feb 26 18:02:41 2016 us=953467 Attempting to establish TCP connection with [AF_INET]89.65.232.65:12974 [nonblock]
+Fri Feb 26 18:02:41 2016 us=953467 MANAGEMENT: >STATE:1456509761,TCP_CONNECT,,,
+Fri Feb 26 18:02:42 2016 us=953594 TCP connection established with [AF_INET]89.65.232.65:12974
+Fri Feb 26 18:02:42 2016 us=953594 TCPv4_CLIENT link local: [undef]
+Fri Feb 26 18:02:42 2016 us=953594 TCPv4_CLIENT link remote: [AF_INET]89.65.232.65:12974
+Fri Feb 26 18:02:42 2016 us=953594 MANAGEMENT: >STATE:1456509762,WAIT,,,
+Fri Feb 26 18:02:43 2016 us=13518 MANAGEMENT: >STATE:1456509763,AUTH,,,
+Fri Feb 26 18:02:43 2016 us=13518 TLS: Initial packet from [AF_INET]89.65.232.65:12974, sid=04bf9e66 24302c7c
+Fri Feb 26 18:02:43 2016 us=909188 VERIFY OK: depth=1, C=TW, ST=TW, L=Taipei, O=netgear, OU=netgear, CN=netgear, emailAddress=mail@netgear.com
+Fri Feb 26 18:02:43 2016 us=909188 VERIFY OK: depth=0, C=TW, ST=TW, O=netgear, OU=netgear, CN=netgear, emailAddress=mail@netgear.com
+Fri Feb 26 18:02:44 2016 us=388441 Data Channel Encrypt: Cipher 'AES-128-CBC' initialized with 128 bit key
+Fri Feb 26 18:02:44 2016 us=388441 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Fri Feb 26 18:02:44 2016 us=388945 Data Channel Decrypt: Cipher 'AES-128-CBC' initialized with 128 bit key
+Fri Feb 26 18:02:44 2016 us=388945 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Fri Feb 26 18:02:44 2016 us=388945 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+Fri Feb 26 18:02:44 2016 us=388945 [netgear] Peer Connection Initiated with [AF_INET]89.65.232.65:12974
+Fri Feb 26 18:02:45 2016 us=43175 MANAGEMENT: >STATE:1456509765,GET_CONFIG,,,
+Fri Feb 26 18:02:46 2016 us=652738 SENT CONTROL [netgear]: 'PUSH_REQUEST' (status=1)
+Fri Feb 26 18:02:51 2016 us=474697 SENT CONTROL [netgear]: 'PUSH_REQUEST' (status=1)
+Fri Feb 26 18:02:56 2016 us=894439 SENT CONTROL [netgear]: 'PUSH_REQUEST' (status=1)
+Fri Feb 26 18:03:01 2016 us=394181 SENT CONTROL [netgear]: 'PUSH_REQUEST' (status=1)
+Fri Feb 26 18:03:06 2016 us=577074 SENT CONTROL [netgear]: 'PUSH_REQUEST' (status=1)
+Fri Feb 26 18:03:11 2016 us=602551 SENT CONTROL [netgear]: 'PUSH_REQUEST' (status=1)
+Fri Feb 26 18:03:16 2016 us=62201 SENT CONTROL [netgear]: 'PUSH_REQUEST' (status=1)
+Fri Feb 26 18:03:21 2016 us=217458 SENT CONTROL [netgear]: 'PUSH_REQUEST' (status=1)
+Fri Feb 26 18:03:26 2016 us=527859 SENT CONTROL [netgear]: 'PUSH_REQUEST' (status=1)
+Fri Feb 26 18:03:31 2016 us=774158 SENT CONTROL [netgear]: 'PUSH_REQUEST' (status=1)
+Fri Feb 26 18:03:35 2016 us=889670 PUSH: Received control message: 'PUSH_REPLY,route 192.168.1.0 255.255.255.0,route-delay 5,redirect-gateway def1,route-gateway dhcp,ping 10,ping-restart 120'
+Fri Feb 26 18:03:35 2016 us=889670 OPTIONS IMPORT: timers and/or timeouts modified
+Fri Feb 26 18:03:35 2016 us=890671 OPTIONS IMPORT: route options modified
+Fri Feb 26 18:03:35 2016 us=890671 OPTIONS IMPORT: route-related options modified
+Fri Feb 26 18:03:35 2016 us=890671 Preserving previous TUN/TAP instance: NETGEAR-VPN
+Fri Feb 26 18:03:35 2016 us=890671 Initialization Sequence Completed
+Fri Feb 26 18:03:35 2016 us=890671 MANAGEMENT: >STATE:1456509815,CONNECTED,SUCCESS,,89.65.232.65
+WRWWRWRRRWWRWRWRRWWRWRWRRWWRWRWRRWWRWRWRRWWRWRWRRWWRWWRRWRWRRWWWRRRWWrWrWrWrWRwrWRwrWrWrWrWrWRwrWRwRwrWRwrWrWrWrWrWrWRwRwrWrWRwrWrWrWRwrWRwrWrWrWrWRwRwrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWRwrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWRwrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWRwRwRwRwRwRwRwRwRwrWrWrWrWrWrWRwrWrWrWRwRwrWrWRwRwRwrWrWrWrWrWrWrWrWRwRwRwrWrWrWRwRwrWrWrWrWrWrWrWrWRwRwRwRwRwRwRwrWrWrWrWRwRwRwRwRwrWrWrWRwRwrWrWRwrWrWrWRwRwRwRwrWrWRwrWRwRwrWrWRwrWRwrWrWrWrWrWRwrWRwrWrWrWrWrWrWRwrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWRwrWrWrWRwRwRwrWRwrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWRwrWrWRwrWRwRwRwrWrWRwrWRwRwRwrWrWrWrWrWRwRwrWrWrWrWrWrWRwRwRwrWrWrWRwrWrWRwRwrWrWrWRwRwRwrWrWrWrWrWrWRwrWrWRwRwRwrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWRwrWrWrWrWrWrWrWrWRwrWrWrWrWRwRwrWrWrWrWrWrWrWrWrWrWrWRwRwRwRwRwRwrWrWRwRwRwRwRwrWRwRwrWrWrWRwRwrWRwRwrWRwrWRwRwrWRwRwrWRwRwrWRwRwrWrWrWrWrWRwRwRwRwRwrWrWrWRwrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWRwrWrWrWrWrWRwrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWRwrWrWrWRwRwrWrWrWrWrWrWrWrWRwrWRwrWrWrWrWrWRwrWrWrWrWRwrWrWrWrWrWrWrWRwrWrWrWrWrWrWrWrWRwrWrWrWrWrWrWrWrWrWrWRwrWRwrWrWrWRwRwrWrWRwrWRwrWrWrWRwrWRwrWrWrWrWRwrWrWRwrWRwrWRwrWrWRwrWrWRwRwRwRwrWrWrWrWRwRwrWrWrWrWRwrWRwRwRwRwrWrWRwrWRwRwRwrWrWrWrWrWrWRwrWrWrWRwrWRwRwrWRwrWRwrWRwrWrWrWRwRwRwRwrWrWrWrWrWRwrWrWRwrWrWRwRwRwrWRwrWrWrWRwRwrWRwRwRwrWrWrWrWRwrWrWRwrWrWRwRwrWRwrWRwrWrWRwrWRwRwRwrWrWRwrWRwRwrWrWrWrWRwrWrWrWrWrWrWrWrWrWrWrWRwrWrWrWRwRwrWrWrWrWrWrWrWrWrWRwRwRwRwRwRwRwRwrWrWrWrWrWrWRwrWRwRwRwrWrWrWRwRwRwrWrWrWrWrWrWRwRwRwRwRwrWrWRwRwRwRwRwRwRwRwRwRwRwrWrWrWrWrWrWrWrWRwrWRwrWRwRwrWrWrWrWRwrWrWrWrWRwrWrWrWRwrWRwRwrWrWRwRwRwRwrWrWrWrWRwRwRwRwRwrWrWrWRwrWrWRwRwrWrWRwRwrWrWrWrWrWRwRwrWrWRwRwrWrWrWrWRwRwRwRwrWrWrWrWrWrWrWrWrWRwRwRwrWrWrWrWrWRwRwRwRwRwrWrWRwRwRwrWrWrWrWrWrWRwRwRwRwRwrWrWrWrWrWrWRwRwRwrWrWRwrWrWrWrWRwrWrWrWrWRwrWRwRwRwrWrWrWRwRwrWRwRwrWrWrWrWrWrWrWrWrWrWrWrWrWRwrWrWrWrWRwRwRwRwRwRwRwRwRwrWrWRwRwRwrWrWRwRwRwRwrWrWRwRwrWRwRwrWrWRwRwRwRwrWRwrWRwrWrWrWrWrWrWrWrWrWRwRwRwrWrWrWrWrWRwRwRwrWrWrWrWrWrWrWrWRwrWRwRwRwRwrWrWrWRwrWrWrWRwRwRwRwRwRwRwRwrWrWrWrWrWrWrWrWRwRwrWRwRwrWRwrWRwRwRwRwrWrWrWRwRwRwRwrWrWrWrWRwRwRwRwRwrWrWrWrWrWrWrWRwrWRwRwrWRwRwrWrWrWrWrWrWRwRwrWrWrWrWrWrWrWrWrWrWrWrWRwRwRwrWrWrWrWrWrWrWrWrWrWRwRwRwRwRwRwRwRwRwrWrWrWrWrWrWrWrWRwrWRwRwRwRwRwRwRwRwRwRwRwRwrWrWrWRwRwRwrWrWrWRwRwRwRwRwRwrWrWRwrWrWRwrWrWrWrWRwRwRwRwrWrWRwrWrWRwRwRwRwrWrWrWrWRwRwRwrWrWrWRwrWrWRwrWrWRwrWrWRwrWRwRwrWrWRwRwrWrWRwrWRwRwrWRwrWrWRwrWRwRwRwrWrWRwrWRwrWRwrWrWrWrWrWRwrWrWRwRwrWRwrWrWrWRwrWRwrWrWrWrWRwrWRwRwrWrWrWRwrWRwrWrWrWrWrWRwRwrWRwrWRwrWrWRwrWrWrWRwrWrWRwrWrWrWrWRwRwRwRwrWrWrWRwrWRwrWRwrWRwrWrWrWRwrWrWrWrWRwrWRwRwrWRwRwRwrWrWRwrWRwrWRwrWrWrWRwrWrWRwrWrWRwrWRwrWrWRwRwrWRwrWrWRwrWRwrWRwrWRwrWrWrWRwRwRwrWrWRwRwRwrWrWRwRwRwrWrWrWRwrWrWRwrWRwRwRwRwRwrWrWrWrWrWRwrWRwRwrWrWRwRwrWRwrWRwrWRwRwrWRwrWRwrWRwrWRwrWrWRwrWrWRwrWRwrWRwrWrWRwrWrWrWrWRwrWRwrWRwrWRwrWrWRwrWRwrWrWrWRwrWrWrWrWRwrWrWrWrWrWrWrWrWrWrWrWRwrWrWrWRwrWrWrWrWrWrWRwrWRwrWrWrWrWRwrWrWRwrWrWrWRwrWrWrWRwrWrWRwrWrWrWrWRwrWrWrWrWrWrWrWrWrWrWRwrWrWrWrWRwrWrWRwrWrWRwrWRwrWrWRwrWrWrWrWrWrWrWrWrWrWrWRwrWrWRwrWrWrWRwrWrWRwrWrWrWRwRwRwRwRwRwrWrWrWrWrWRwrWRwrWRwrWrWrWRwrWrWrWrWRwrWrWRwRwRwRwRwrWrWrWrWrWRwRwrWRwRwrWrWrWrWrWRwrWrWRwrWrWrWRwRwRwRwRwrWrWrWrWrWRwrWrWrWrWRwrWrWRwrWrWRwrWrWRwrWrWrWRwRwRwRwRwrWrWrWrWRwrWrWrWrWrWrWRwrWRwrWrWRwrWRwRwrWrWrWRwrWRwrWrWRwRwrWrWRwrWrWRwRwrWrWrWRwrWRwrWRwrWRwrWrWRwrWrWrWrWRwrWRwrWRwrWRwrWRwrWrWrWRwrWRwrWRwrWRwRwrWrWrWrWrWrWrWRwrWRwrWRwrWrWRwrWrWrWrWrWRwrWrWrWRwRwrWRwrWRwrWrWRwRwrWRwRrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWWWWrWrWrWrWrWrWrWrWrWrWrWrWrWrWWWWrWrWrWrWWRWWRWRRRWWRWRWRRWWRWRWRRWWRWRWRRWWRWRWRRWWRWRWRRWWRWWRRWrRWRRWWrWrWRWWrWWWWWWWWWWWWWWrWWWWWWwRRRRWWwRRWwRRWwRRRRRRRWWwRRRRRWRWRRRRRwRrWrWrWrWrWWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWrWFri Feb 26 18:05:35 2016 us=131397 [netgear] Inactivity timeout (--ping-restart), restarting
+Fri Feb 26 18:05:35 2016 us=131397 TCP/UDP: Closing socket
+Fri Feb 26 18:05:35 2016 us=131397 SIGUSR1[soft,ping-restart] received, process restarting
+Fri Feb 26 18:05:35 2016 us=131397 MANAGEMENT: >STATE:1456509935,RECONNECTING,ping-restart,,
+Fri Feb 26 18:05:35 2016 us=131397 Restart pause, 5 second(s)
+Fri Feb 26 18:05:40 2016 us=133392 WARNING: No server certificate verification method has been enabled.  See http://openvpn.net/howto.html#mitm for more info.
+Fri Feb 26 18:05:40 2016 us=133392 Re-using SSL/TLS context
+Fri Feb 26 18:05:40 2016 us=133392 LZO compression initialized
+Fri Feb 26 18:05:40 2016 us=133392 Control Channel MTU parms [ L:1592 D:1210 EF:40 EB:0 ET:0 EL:3 ]
+Fri Feb 26 18:05:40 2016 us=133392 Socket Buffers: R=[65536->65536] S=[65536->65536]
+Fri Feb 26 18:05:40 2016 us=133392 MANAGEMENT: >STATE:1456509940,RESOLVE,,,
+Fri Feb 26 18:05:40 2016 us=340903 Data Channel MTU parms [ L:1592 D:1450 EF:60 EB:143 ET:32 EL:3 AF:3/1 ]
+Fri Feb 26 18:05:40 2016 us=340903 Local Options String: 'V4,dev-type tap,link-mtu 1592,tun-mtu 1532,proto TCPv4_CLIENT,comp-lzo,cipher AES-128-CBC,auth SHA1,keysize 128,key-method 2,tls-client'
+Fri Feb 26 18:05:40 2016 us=340903 Expected Remote Options String: 'V4,dev-type tap,link-mtu 1592,tun-mtu 1532,proto TCPv4_SERVER,comp-lzo,cipher AES-128-CBC,auth SHA1,keysize 128,key-method 2,tls-server'
+Fri Feb 26 18:05:40 2016 us=340903 Local Options hash (VER=V4): '39ac68d4'
+Fri Feb 26 18:05:40 2016 us=340903 Expected Remote Options hash (VER=V4): 'de0ebdfe'
+Fri Feb 26 18:05:40 2016 us=340903 Attempting to establish TCP connection with [AF_INET]89.65.232.65:12974 [nonblock]
+Fri Feb 26 18:05:40 2016 us=340903 MANAGEMENT: >STATE:1456509940,TCP_CONNECT,,,
+Fri Feb 26 18:05:41 2016 us=341718 TCP connection established with [AF_INET]89.65.232.65:12974
+Fri Feb 26 18:05:41 2016 us=341718 TCPv4_CLIENT link local: [undef]
+Fri Feb 26 18:05:41 2016 us=341718 TCPv4_CLIENT link remote: [AF_INET]89.65.232.65:12974
+Fri Feb 26 18:05:41 2016 us=341718 MANAGEMENT: >STATE:1456509941,WAIT,,,
+Fri Feb 26 18:05:41 2016 us=398778 MANAGEMENT: >STATE:1456509941,AUTH,,,
+Fri Feb 26 18:05:41 2016 us=398778 TLS: Initial packet from [AF_INET]89.65.232.65:12974, sid=ff158685 696ec485
+Fri Feb 26 18:05:42 2016 us=269191 VERIFY OK: depth=1, C=TW, ST=TW, L=Taipei, O=netgear, OU=netgear, CN=netgear, emailAddress=mail@netgear.com
+Fri Feb 26 18:05:42 2016 us=269191 VERIFY OK: depth=0, C=TW, ST=TW, O=netgear, OU=netgear, CN=netgear, emailAddress=mail@netgear.com
+Fri Feb 26 18:05:42 2016 us=728213 Data Channel Encrypt: Cipher 'AES-128-CBC' initialized with 128 bit key
+Fri Feb 26 18:05:42 2016 us=728213 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Fri Feb 26 18:05:42 2016 us=728213 Data Channel Decrypt: Cipher 'AES-128-CBC' initialized with 128 bit key
+Fri Feb 26 18:05:42 2016 us=728213 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Fri Feb 26 18:05:42 2016 us=728213 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 1024 bit RSA
+Fri Feb 26 18:05:42 2016 us=728213 [netgear] Peer Connection Initiated with [AF_INET]89.65.232.65:12974
+Fri Feb 26 18:05:43 2016 us=765702 MANAGEMENT: >STATE:1456509943,GET_CONFIG,,,
+Fri Feb 26 18:05:44 2016 us=802839 SENT CONTROL [netgear]: 'PUSH_REQUEST' (status=1)
+Fri Feb 26 18:05:44 2016 us=942442 PUSH: Received control message: 'PUSH_REPLY,route 192.168.1.0 255.255.255.0,route-delay 5,redirect-gateway def1,route-gateway dhcp,ping 10,ping-restart 120'
+Fri Feb 26 18:05:44 2016 us=943442 OPTIONS IMPORT: timers and/or timeouts modified
+Fri Feb 26 18:05:44 2016 us=943442 OPTIONS IMPORT: route options modified
+Fri Feb 26 18:05:44 2016 us=943442 OPTIONS IMPORT: route-related options modified
+Fri Feb 26 18:05:44 2016 us=943442 Preserving previous TUN/TAP instance: NETGEAR-VPN
+Fri Feb 26 18:05:44 2016 us=943442 Initialization Sequence Completed
+Fri Feb 26 18:05:44 2016 us=943442 MANAGEMENT: >STATE:1456509944,CONNECTED,SUCCESS,,89.65.232.65

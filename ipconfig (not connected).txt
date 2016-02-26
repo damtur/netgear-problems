@@ -1,0 +1,117 @@
+$ ipconfig -all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DTURCZYNSKI15L
+   Primary Dns Suffix  . . . . . . . : agilesports.local
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : Yes
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : agilesports.local
+
+Ethernet adapter vEthernet (Internal Ethernet Port Windows Phone Emulator Internal Switch):
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter
+   Physical Address. . . . . . . . . : 00-15-5D-60-B6-16
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : CC-3D-82-5E-9C-47
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : agilesports.local
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection I217-LM
+   Physical Address. . . . . . . . . : 54-EE-75-4D-FD-C6
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 10.104.8.8(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Lease Obtained. . . . . . . . . . : Wednesday, February 24, 2016 9:28:10 AM
+   Lease Expires . . . . . . . . . . : Saturday, February 27, 2016 9:26:42 AM
+   Default Gateway . . . . . . . . . : 10.104.0.1
+   DHCP Server . . . . . . . . . . . : 10.104.1.1
+   DNS Servers . . . . . . . . . . . : 10.104.1.1
+                                       192.168.3.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : VirtualBox NDIS 6.0 Miniport Driver
+   Physical Address. . . . . . . . . : 0A-00-27-00-00-00
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::f4fb:34e6:f459:202%22(Preferred)
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+   DHCPv6 IAID . . . . . . . . . . . : 419954727
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1D-04-2C-24-54-EE-75-4D-FD-C6
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Ethernet 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : TAP Adapter OAS NDIS 6.0
+   Physical Address. . . . . . . . . : 00-FF-4A-CF-31-F2
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter NETGEAR-VPN:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : TAP-Windows Adapter V9
+   Physical Address. . . . . . . . . : 00-FF-01-B7-C9-5F
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : CC-3D-82-5E-9C-4A
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : agilesports.local
+   Description . . . . . . . . . . . : Intel(R) Dual Band Wireless-AC 7260
+   Physical Address. . . . . . . . . : CC-3D-82-5E-9C-46
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter isatap.{CED316A3-E6D7-4005-95DE-E5BEDC826D12}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter isatap.agilesports.local:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : agilesports.local
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter #5
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
